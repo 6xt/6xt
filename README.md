@@ -13,6 +13,6 @@
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=6xt&show_icons=true&theme=github_dark)
+
 
 Have a nice day!
